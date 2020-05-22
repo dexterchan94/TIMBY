@@ -12,9 +12,12 @@ TIMBY was collaboratively built with [AllenLiDev](https://github.com/AllenLiDev/
 
 ## Images
 
-<img style="float: left" width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-home-screen.jpg?raw=true">
-<img style="float: left" width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-splash-screen.jpg?raw=true">
-<img style="float: left" width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true">
+<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true">
+<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-listing-confirm.jpg?raw=true">
+<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-booking-details.jpg?raw=true">
+<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-feedback.jpg?raw=true">
+<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-notifications.jpg?raw=true">
+<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-push-notifications.jpg?raw=true">
 
 
 ## Dependencies
