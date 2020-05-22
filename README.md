@@ -12,9 +12,9 @@ TIMBY was collaboratively built with [AllenLiDev](https://github.com/AllenLiDev/
 
 ## Images
 
-<img width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-home-screen.jpg?raw=true">
-<img width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-splash-screen.jpg?raw=true">
-<img width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true">
+<img style="float: left" width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-home-screen.jpg?raw=true">
+<img style="float: left" width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-splash-screen.jpg?raw=true">
+<img style="float: left" width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true">
 
 
 ## Dependencies
