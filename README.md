@@ -12,7 +12,7 @@ TIMBY was collaboratively built with [AllenLiDev](https://github.com/AllenLiDev/
 
 ## Images
 
-
+![Home Screen](https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-home-screen.jpg?raw=true "Home Screen") ![Splash Screen](https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-splash-screen.jpg?raw=true "Splash Screen") ![Search](https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true "Search")
 
 ## Dependencies
 
