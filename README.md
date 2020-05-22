@@ -12,7 +12,10 @@ TIMBY was collaboratively built with [AllenLiDev](https://github.com/AllenLiDev/
 
 ## Images
 
-![Home Screen](https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-home-screen.jpg?raw=true "Home Screen") ![Splash Screen](https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-splash-screen.jpg?raw=true "Splash Screen") ![Search](https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true "Search")
+<img width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-home-screen.jpg?raw=true">
+<img width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-splash-screen.jpg?raw=true">
+<img width="200" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true">
+
 
 ## Dependencies
 
@@ -38,7 +41,7 @@ TIMBY was collaboratively built with [AllenLiDev](https://github.com/AllenLiDev/
 
 * cypress
 * jest
-* React test renderer
+* react-test-renderer
 * testing-library
 * serve
 
