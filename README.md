@@ -13,7 +13,7 @@ TIMBY was collaboratively built with [AllenLiDev](https://github.com/AllenLiDev/
 ## Images
 
 <img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-search.jpg?raw=true">
-<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-listing-confirm.jpg?raw=true">
+<img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-listings-confirm.jpg?raw=true">
 <img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-booking-details.jpg?raw=true">
 <img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-feedback.jpg?raw=true">
 <img style="float: left" width="400" src="https://github.com/dexterchan94/TIMBY/blob/master/screenshots/timby-notifications.jpg?raw=true">
